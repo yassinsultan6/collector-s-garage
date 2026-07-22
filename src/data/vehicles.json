@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "76e5915b-3d16-49ef-a4f7-f413fb362e49",
+    "name": "11111",
+    "make": "11",
+    "type": "Classic car",
+    "isPublic": true,
+    "status": "active",
+    "photos": "/uploads/vehicle-photos/1784686415844-45953b43-bbc7-4931-bfa8-e4c7d09adf70-logoyr.jpg",
+    "maintenanceReminderEnabled": false,
+    "licenceReminderEnabled": false,
+    "protectionReminderEnabled": false,
+    "createdAt": "2026-07-22T02:13:43.017Z",
+    "updatedAt": "2026-07-22T02:13:43.017Z"
+  }
+]
