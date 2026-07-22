@@ -1,0 +1,97 @@
+{
+  "vehicleTypes": [
+    {
+      "id": "vt-1",
+      "name": "Classic car",
+      "description": "Heritage and concours vehicles",
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    },
+    {
+      "id": "vt-2",
+      "name": "Hypercar",
+      "description": "High-performance modern exotics",
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    }
+  ],
+  "keyLocations": [
+    {
+      "id": "kl-1",
+      "name": "Primary vault",
+      "description": "Yehia Rashdan's main secure storage",
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    },
+    {
+      "id": "kl-2",
+      "name": "Secondary vault",
+      "description": "Yehia Rashdan's secondary secure storage",
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u-1",
+      "name": "Yehia Rashdan",
+      "username": "rashdan",
+      "email": "rashdan@collector-garage.dev",
+      "role": "admin",
+      "active": true,
+      "permissions": [
+        "vehicles",
+        "garages",
+        "parking-spots",
+        "notifications",
+        "documents",
+        "users",
+        "vehicle-types",
+        "key-locations"
+      ],
+      "passwordHash": "e0db8f578a613df4cd15e7aaa29d978f4a96bee97736836f49cc5d8f97de218d",
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:39:02.906Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-1",
+      "name": "Proof of ownership",
+      "category": "legal",
+      "required": true,
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    },
+    {
+      "id": "doc-2",
+      "name": "Insurance certificate",
+      "category": "insurance",
+      "required": true,
+      "enabled": true,
+      "createdAt": "2026-07-22T01:35:47.783Z",
+      "updatedAt": "2026-07-22T01:35:47.783Z"
+    }
+  ],
+  "permissions": [
+    "vehicles",
+    "garages",
+    "parking-spots",
+    "notifications",
+    "documents",
+    "users",
+    "vehicle-types",
+    "key-locations"
+  ],
+  "notifications": {
+    "enabled": true,
+    "scope": "all_vehicles",
+    "selectedVehicleIds": [],
+    "selectedGarageIds": []
+  }
+}

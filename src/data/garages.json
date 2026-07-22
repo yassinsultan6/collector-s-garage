@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ade2f97b-074b-4e8d-a497-ffc9348ccd3d",
+    "name": "home",
+    "capacity": 25,
+    "createdAt": "2026-07-22T00:58:28.429Z",
+    "updatedAt": "2026-07-22T00:58:28.429Z"
+  },
+  {
+    "id": "45f72971-a99a-482a-bca3-de7074471c27",
+    "name": "heliopolis",
+    "address": "gvj",
+    "createdAt": "2026-07-12T23:35:08.843Z",
+    "updatedAt": "2026-07-12T23:35:08.843Z"
+  }
+]

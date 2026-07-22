@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ede6dfc4-9709-455e-a186-612f55b22cc4",
+    "garageId": "45f72971-a99a-482a-bca3-de7074471c27",
+    "spotNumber": "1",
+    "vehicleId": null,
+    "createdAt": "2026-07-12T23:35:29.563Z",
+    "updatedAt": "2026-07-12T23:35:29.563Z"
+  },
+  {
+    "id": "49bf4d7f-a87d-4cca-acae-2104a8182ca2",
+    "garageId": "45f72971-a99a-482a-bca3-de7074471c27",
+    "spotNumber": "1",
+    "vehicleId": null,
+    "createdAt": "2026-07-20T16:07:54.338Z",
+    "updatedAt": "2026-07-20T16:07:54.338Z"
+  }
+]

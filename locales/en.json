@@ -1,0 +1,56 @@
+{
+  "header": {
+    "title": "Collector Garage",
+    "subtitle": "Private luxury fleet command center",
+    "description": "A premium private collection platform for owners who want every vehicle profile to be polished, complete, and ready to evolve.",
+    "toggle": "العربية"
+  },
+  "stats": [
+    { "label": "Vehicles tracked", "value": "24" },
+    { "label": "Premium garages", "value": "6" },
+    { "label": "Draft profiles", "value": "8" }
+  ],
+  "form": {
+    "title": "Create or refine a vehicle profile",
+    "helper": "Every field is optional, so incomplete profiles can be saved and continued later.",
+    "saveButton": "Save vehicle profile",
+    "emptyState": "No vehicles yet. Start with your first profile and build it over time.",
+    "detailTitle": "Collection snapshot",
+    "detailHelper": "Select a card to view the full private profile details.",
+    "sections": {
+      "overview": "Overview",
+      "documents": "Documents & keys",
+      "history": "History & notes"
+    },
+    "fieldLabels": {
+      "name": "Vehicle name",
+      "type": "Vehicle type",
+      "customType": "Custom vehicle type",
+      "year": "Model year",
+      "location": "Collection location",
+      "garage": "Garage name",
+      "specs": "Specifications",
+      "photos": "Photos",
+      "maintenanceRecords": "Maintenance records",
+      "licenseInfo": "License information",
+      "restorationHistory": "Restoration history",
+      "tuningDetails": "Tuning details",
+      "spareKeys": "Spare keys",
+      "documents": "Documents",
+      "comments": "Comments",
+      "timeline": "Timeline history"
+    }
+  },
+  "gallery": {
+    "privateGallery": "Private gallery",
+    "restorationSlider": "Restoration slider"
+  },
+  "notifications": {
+    "saved": "Profile saved and ready for the next refinement."
+  },
+  "nav": {
+    "home": "Home",
+    "vehicles": "Vehicles",
+    "settings": "Settings"
+  }
+}
